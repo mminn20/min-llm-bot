@@ -25,7 +25,7 @@ LLM chat bot to use CrewAI
 
 
 ## 3. 프로젝트
-###3-1. Ollama 모델 + CrewAI
+### 3-1. Ollama 모델 + CrewAI
 - 언어 모델 다운 -> CrewAI 설치해서 챗봇 시스템 만들기
 
 (1) ollama 다운로드
@@ -47,4 +47,11 @@ LLM chat bot to use CrewAI
 > pip install langchain-ollama
 
 
-###3-2. Flask 사용해서 기본적인 챗봇  
+### 3-2. Flask 사용해서 기본적인 챗봇  
+
+
+
+### git commit 
+> git add .
+> git commit -m ""
+> git push origin main
